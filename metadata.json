@@ -1,0 +1,6 @@
+{
+  "name": "Subway Surf Velocity 8000Hz",
+  "description": "Jogo 3D Subway Surf veloz e 100% offline, com prancha hoverboard, moedas, poderes de ímã, 2x e super tênis, sistema de renascimento e resposta instantânea para teclados rápidos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
